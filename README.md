@@ -16,7 +16,7 @@ This is a mock website for The Olsen Twins live site - The collection is quite r
 
 • Register.
 • Login/Logout.
-• Update their information.
+• Update their information. (I implemented this with being able to update their cart items and quantity of said items)
 
 # Additional 
 
@@ -30,7 +30,7 @@ This is a mock website for The Olsen Twins live site - The collection is quite r
  add a payment api 
  
 # What I would like to work on more:
- clean up the bootstrap cards for better presentation 
+ clean up the bootstrap cards for better presentation  &  I was having issues with the url patterns. 
 
 
 # Tech Stack 
