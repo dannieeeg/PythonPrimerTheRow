@@ -1,0 +1,16 @@
+{% extends 'store/main.html' %}
+{% load static %}
+
+{% block content %}
+<h3> Become A Member </h3>
+<form action="" method="POST">
+    {% csrf_token %} 
+    {{form.as_p}}
+    
+    <input type="SUBMIT" name="Create User"  class="btn btn-dark" style="text-align: center;">
+    <a href="loginPage" class="btn btn-dark" style="text-align: center;">LOGIN</a>
+    <a href="home" class="btn btn-dark" style="text-align: center;">HOME</a>
+
+</form>
+
+{% endblock %}
