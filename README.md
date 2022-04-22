@@ -45,6 +45,9 @@ This is a mock website for The Olsen Twins live site - The collection is quite r
 # License 
 ## MIT 
 
-# Site Preview
+# Site Preview 
 ![therowrm](https://user-images.githubusercontent.com/78777206/164614781-4e6a3143-e0a2-46b4-9b00-bfe9b507f7a5.png)
+
+# Presentation 
+https://www.canva.com/design/DAE2lPYrFeU/d4dOigoMbK-0N-FuEr5Dfg/view?utm_content=DAE2lPYrFeU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
